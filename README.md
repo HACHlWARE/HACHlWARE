@@ -1,5 +1,8 @@
 
-![you can make it different](https://github.com/user-attachments/assets/67d62bf9-5f03-408d-80ff-0ece4c59a204)
+</p>
+<p align="center">
+<img width="99" height="56" alt="Image" src="https://github.com/user-attachments/assets/842e6c25-05c2-43a3-ba81-9126ffeec00b" />
+
 
 <!--
 **HACHlWARE/HACHlWARE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
